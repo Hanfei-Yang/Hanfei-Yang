@@ -32,17 +32,17 @@
 
 <ul>
   <li>
-    <b>Languages:</b> Python (Pandas, NumPy), R (Statistical Modeling, RMarkdown), Java[cite: 1]
+    <b>Languages:</b> Python (Pandas, NumPy), R (Statistical Modeling, RMarkdown), Java
   </li>
   <li>
-    <b>Certifications:</b> Professional Competency Certificate in Market Research & Analysis (China, 2024)[cite: 1]
+    <b>Certifications:</b> Professional Competency Certificate in Market Research & Analysis (China, 2024)
   </li>
   <li>
     <b>Honors & Awards:</b>
     <ul>
-      <li>Academic Excellence Scholarship | Capital University of Economics and Business (2025)[cite: 1]</li>
-      <li>Dean's List | University of Arizona (Fall 2025)[cite: 1]</li>
-      <li>Certificate of Completion | Alliance Manchester Business School (AMBS) (2025)[cite: 1]</li>
+      <li>Academic Excellence Scholarship | Capital University of Economics and Business (2025)</li>
+      <li>Dean's List | University of Arizona (Fall 2025)</li>
+      <li>Certificate of Completion | Alliance Manchester Business School (AMBS) (2025)</li>
     </ul>
   </li>
 </ul>
@@ -55,6 +55,7 @@
   <b>A Two-Stage Positive-Unlabeled Learning Framework for Identifying Undiagnosed Hypertension in Heterogeneous Populations</b><br>
   <b>Authors:</b> Huanqi Wu, Liangkun Shi, <b>Hanfei Yang</b>, Zhuofan Zhan & Lizhu Guo<br>
   <b>Affiliations:</b> Dept of Mathematics, University of Arizona & Dept of Cardiology, Beijing Anzhen Hospital
+  <a href="https://github.com/Hanfei-Yang" target="_blank">Project Link</a>
 </p>
 <ul>
   <li><b>Framework (PU-Boost):</b> Developed a two-stage Positive–Unlabeled learning framework to identify undiagnosed hypertension using accessible demographic, behavioral, and anthropometric variables across a nationwide cohort of 43,105 Chinese adults.</li>
@@ -68,7 +69,7 @@
 <p>
   <b>Factors Associated with Systolic Blood Pressure Among Chinese Adults</b><br>
   <b>Role:</b> Statistical Analyst | <b>Time:</b> Fall 2025 | 
-  <a href="https://github.com/Hanfei-Yang" target="_blank">🔗 Project Link</a>
+  <a href="https://github.com/Hanfei-Yang" target="_blank">Project Link</a>
 </p>
 <ul>
   <li><b>Data Scale:</b> Processed a national cardiovascular risk dataset of 43,088 samples with 48 initial clinical variables.</li>
