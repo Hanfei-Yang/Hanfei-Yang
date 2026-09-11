@@ -13,10 +13,10 @@
 
 *  **THE UNiVERSiTY OF ARiZONA(UA)**
 *  Candidatefor Bachelor of Science in Data Science,MinorinComputerScience
-
+*
 *  **CAPiTAL UNiVERSiTY OF ECONOMiCS AND BUSiNESS(CUEB)**
 *  Candidatefor Bachelor of Science in Statistics (Dual Degree Program)
-
+*
 *  **THE UNiVERSiTY OF MANCHESTER**
 *  SummerSchoolProgram: DigitalEconomy: AIandtheBusiness
 * 📫 contact me：**15117959575@163.com**
