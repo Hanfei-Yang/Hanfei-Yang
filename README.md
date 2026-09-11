@@ -69,7 +69,7 @@
 <p>
   <b>Factors Associated with Systolic Blood Pressure Among Chinese Adults</b><br>
   <b>Role:</b> Statistical Analyst | <b>Time:</b> Fall 2025 | 
-  <a href="[https://github.com/LionelWu11282562/A-Two-Stage-Probability-Stratified-Method-for-Ambiguous-Dataset-Optimization](https://github.com/Hanfei-Yang/SystolicBlood-Pressure-Among-Middle-Agedand-Older-Chinese-Adults)" target="_blank">🔗 Project Link</a>
+  <a href="https://github.com/Hanfei-Yang/SystolicBlood-Pressure-Among-Middle-Agedand-Older-Chinese-Adults" target="_blank">🔗 Project Link</a>
 </p>
 <ul>
   <li><b>Data Scale:</b> Processed a national cardiovascular risk dataset of 43,088 samples with 48 initial clinical variables.</li>
