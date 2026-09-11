@@ -3,12 +3,6 @@
   <h1>Hi, I'm Hanfei Yang 👋</h1>
   <h3>Data Science & Statistics Student</h3>
 
-  <p>
-    <img src="https://img.shields.io/badge/Status-Coding-brightgreen?style=flat-square&logo=git" alt="Status" />
-    <img src="https://img.shields.io/badge/Focus-Data_Science_%26_Statistics-blue?style=flat-square&logo=python" alt="Focus" />
-    <img src="https://img.shields.io/badge/Location-Tucson%2C_AZ-red?style=flat-square&logo=geojson" alt="Location" />
-  </p>
-
 </div>
 
 <hr>
@@ -45,11 +39,24 @@
 <h3>🔬 Research & Data Projects</h3>
 
 <p>
+  <b>A Two-Stage Positive-Unlabeled Learning Framework for Identifying Undiagnosed Hypertension in Heterogeneous Populations</b><br>
+  <b>Authors:</b> Huanqi Wu, Liangkun Shi, <b>Hanfei Yang</b>, Zhuofan Zhan & Lizhu Guo<br>
+  <b>Affiliations:</b> Dept of Mathematics, University of Arizona & Dept of Cardiology, Beijing Anzhen Hospital
+</p>
+<ul>
+  <li><b>Framework (PU-Boost):</b> Developed a two-stage Positive–Unlabeled learning framework to identify undiagnosed hypertension using accessible demographic, behavioral, and anthropometric variables across a nationwide cohort of 43,105 Chinese adults.</li>
+  <li><b>Methodology:</b> Combined Elastic Net logistic regression and Random Forest to reconstruct high-confidence pseudo-labels, followed by XGBoost classification.</li>
+  <li><b>Performance:</b> Achieved the highest sensitivity (0.817) and balanced accuracy (0.682) compared to standard baselines, significantly reducing false negatives.</li>
+  <li><b>Interpretability:</b> Utilized SHAP analysis to identify age, BMI, family history, and regional factors as major risk contributors.</li>
+</ul>
+
+<br>
+
+<p>
   <b>Factors Associated with Systolic Blood Pressure Among Chinese Adults</b><br>
   <b>Role:</b> Statistical Analyst | <b>Time:</b> Fall 2025 | 
   <a href="https://github.com/Hanfei-Yang" target="_blank">🔗 Project Link</a>
 </p>
-
 <ul>
   <li><b>Data Scale:</b> Processed a national cardiovascular risk dataset of 43,088 samples with 48 initial clinical variables.</li>
   <li><b>Variable Selection:</b> Applied Lasso Regression and collinearity diagnostics to identify 11 primary predictors.</li>
@@ -59,11 +66,3 @@
 
 <hr>
 
-<div align="center">
-  <!-- 访客与数据统计，请确保 username 修改为你真实的 GitHub 用户名 -->
-  <img src="https://komarev.com/ghpvc/?username=Hanfei-Yang&color=brightgreen&style=flat-square" alt="Visitor Count" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Hanfei-Yang&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanfei-Yang&layout=compact&theme=radical" alt="Top Languages" />
-</div>
