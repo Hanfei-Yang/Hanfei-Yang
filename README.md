@@ -55,7 +55,7 @@
   <b>A Two-Stage Positive-Unlabeled Learning Framework for Identifying Undiagnosed Hypertension in Heterogeneous Populations</b><br>
   <b>Authors:</b> Huanqi Wu, Liangkun Shi, <b>Hanfei Yang</b>, Zhuofan Zhan & Lizhu Guo<br>
   <b>Affiliations:</b> Dept of Mathematics, University of Arizona & Dept of Cardiology, Beijing Anzhen Hospital
-  <a href="https://github.com/Hanfei-Yang" target="_blank">Project Link</a>
+<a href="[https://github.com/Hanfei-Yang](https://github.com/LionelWu11282562/A-Two-Stage-Probability-Stratified-Method-for-Ambiguous-Dataset-Optimization)" target="_blank">Project Link</a>
 </p>
 <ul>
   <li><b>Framework (PU-Boost):</b> Developed a two-stage Positive–Unlabeled learning framework to identify undiagnosed hypertension using accessible demographic, behavioral, and anthropometric variables across a nationwide cohort of 43,105 Chinese adults.</li>
