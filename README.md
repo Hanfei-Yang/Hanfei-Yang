@@ -28,17 +28,28 @@
 
 <hr>
 
-<h3>🛠️ Tech Stack & Tools</h3>
+<h3>SKILLS & CERTIFICATIONS</h3>
 
-<div align="center">
-* Languages: Python (Pandas, NumPy), R (Statistical Modeling, RMarkdown), Java. 
-* Certifications: Professional Competency Certificate in Market Research & Analysis (China, 2024). 
-* Honors: Academic Excellence Scholarship | Capital University of Economics and Business | 2025 Dean's List | University of Arizona | Fall 2025 Certificate of Completion | Alliance Manchester Business School (AMBS) |2025
-</div>
+<ul>
+  <li>
+    <b>Languages:</b> Python (Pandas, NumPy), R (Statistical Modeling, RMarkdown), Java[cite: 1]
+  </li>
+  <li>
+    <b>Certifications:</b> Professional Competency Certificate in Market Research & Analysis (China, 2024)[cite: 1]
+  </li>
+  <li>
+    <b>Honors & Awards:</b>
+    <ul>
+      <li>Academic Excellence Scholarship | Capital University of Economics and Business (2025)[cite: 1]</li>
+      <li>Dean's List | University of Arizona (Fall 2025)[cite: 1]</li>
+      <li>Certificate of Completion | Alliance Manchester Business School (AMBS) (2025)[cite: 1]</li>
+    </ul>
+  </li>
+</ul>
 
 <hr>
 
-<h3>🔬 Research & Data Projects</h3>
+<h3>Research & Data Projects</h3>
 
 <p>
   <b>A Two-Stage Positive-Unlabeled Learning Framework for Identifying Undiagnosed Hypertension in Heterogeneous Populations</b><br>
