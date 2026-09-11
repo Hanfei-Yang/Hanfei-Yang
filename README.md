@@ -1,24 +1,25 @@
 <div align="center">
   <!-- 欢迎标语 -->
-  <h1>Hi Im Hanfei yang</a> 👋</h1>
+  <h1>Hi, Im Hanfei yang</a> 👋</h1>
   <h3>A DS/CS undergraduate student in University of Arizona</h3>
 
   <!-- 徽章部分 (Badge) -->
-  <p>
-    <img src="https://img.shields.io/badge/Status-Coding-brightgreen?style=flat-square&logo=git" alt="Status" />
-    <img src="https://img.shields.io/badge/Focus-Full_Stack-blue?style=flat-square&logo=react" alt="Focus" />
-    <img src="https://img.shields.io/badge/Location-China-red?style=flat-square&logo=geojson" alt="Location" />
-  </p>
+  
 </div>
 
 ---
 
-### 👨‍💻 关于我
+### About me
 
-* 🔭 我目前正专注于 **Web 开发与人工智能应用**。
-* 🌱 我正在学习 **高级前端架构与 Rust 语言**。
-* 💬 问我关于 **JavaScript, Python, React** 的问题。
-* 📫 如何联系我：**your.email@example.com**
+*  **THE UNiVERSiTY OF ARiZONA(UA)**
+*  Candidatefor Bachelor of Science in Data Science,MinorinComputerScience
+
+*  **CAPiTAL UNiVERSiTY OF ECONOMiCS AND BUSiNESS(CUEB)**
+*  Candidatefor Bachelor of Science in Statistics (Dual Degree Program)
+
+*  **THE UNiVERSiTY OF MANCHESTER**
+*  SummerSchoolProgram: DigitalEconomy: AIandtheBusiness
+* 📫 contact me：**15117959575@163.com**
 
 ---
 
