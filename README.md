@@ -1,7 +1,7 @@
 <div align="center">
   <!-- 欢迎标语 -->
-  <h1>Hi there, I'm <a href="你的博客或网站链接" target="_blank">你的名字</a> 👋</h1>
-  <h3>🚀 一个热爱编程的开发者 / 学生</h3>
+  <h1>Hi Im Hanfei yang</a> 👋</h1>
+  <h3>A DS/CS undergraduate student in University of Arizona</h3>
 
   <!-- 徽章部分 (Badge) -->
   <p>
