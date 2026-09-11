@@ -31,7 +31,9 @@
 <h3>🛠️ Tech Stack & Tools</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,R,c,js,ts,react,vue,java,nodejs,git,docker,linux,vscode&perline=6" />
+* Languages: Python (Pandas, NumPy), R (Statistical Modeling, RMarkdown), Java. 
+* Certifications: Professional Competency Certificate in Market Research & Analysis (China, 2024). 
+* Honors: Academic Excellence Scholarship | Capital University of Economics and Business | 2025 Dean's List | University of Arizona | Fall 2025 Certificate of Completion | Alliance Manchester Business School (AMBS) |2025
 </div>
 
 <hr>
