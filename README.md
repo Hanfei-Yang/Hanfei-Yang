@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hi, I'm Hanfei Yang 👋</h1>
+  <h1>Hanfei Yang</h1>
   <h3>Data Science & Statistics Student</h3>
 
 </div>
