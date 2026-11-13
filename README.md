@@ -1,82 +1,109 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Hanfei Yang — Data Science, Statistics and Machine Learning" />
+<img src="assets/banner.svg" alt="Hanfei Yang | Statistical Learning · Machine Learning · Applied Statistics" width="100%" />
 
-<br/>
+**STATISTICAL LEARNING** &nbsp;·&nbsp; **MACHINE LEARNING** &nbsp;·&nbsp; **APPLIED STATISTICS**
 
-**Statistics · Machine Learning · Data Science**
-
-[Email](mailto:yanghanfei@arizona.edu) · [GitHub](https://github.com/Hanfei-Yang)
+[Email](mailto:yanghanfei@arizona.edu) &nbsp;·&nbsp; [GitHub](https://github.com/Hanfei-Yang) &nbsp;·&nbsp; [Research](#02--featured-research)
 
 </div>
 
 ---
 
-## <span style="color:#C8102E">About Me</span>
+### 01 / ABOUT
 
-I am a **Data Science and Statistics undergraduate** in the **CUEB–University of Arizona dual-degree program**, with a minor in **Computer Science**. My interests lie at the intersection of **statistical learning, machine learning, and applied statistical modeling**, especially when working with noisy labels, heterogeneous populations, and real-world data.
+I am an undergraduate student in **Data Science and Statistics** in the **Capital University of Economics and Business–University of Arizona dual-degree program**, with a minor in **Computer Science** at the University of Arizona.
 
-- 🎓 **University of Arizona** — B.S. in Data Science, Minor in Computer Science (Aug 2025–Present)
-- 🎓 **Capital University of Economics and Business** — Statistics, CUEB–UA Dual-Degree Program (Sep 2023–Jun 2025)
-- 🌍 **University of Manchester** — *Digital Economy: AI and the Business*, Alliance Manchester Business School (Summer 2025)
-- 🔬 Research interests: **Statistical Machine Learning · Positive–Unlabeled Learning · Model Evaluation · Applied Statistics**
+My interests include **statistical learning, machine learning, model evaluation, and applied statistical inference**. I am particularly interested in developing and evaluating methods for complex real-world datasets, including noisy labels and heterogeneous populations.
 
-## Research & Projects
+**Education**
 
-### 🔴 PU-Boost: Positive–Unlabeled Learning for Hypertension Screening
+- **University of Arizona** — B.S. in Data Science; Minor in Computer Science · Aug 2025–Present
+- **Capital University of Economics and Business** — Statistics, CUEB–UA Dual-Degree Program · Sep 2023–Jun 2025
+- **University of Manchester** — *Digital Economy: AI and the Business*, Alliance Manchester Business School · Summer 2025
 
-**Co-author / Research Assistant** · 2026 · Under Review · [DOI](https://doi.org/10.64898/2026.10.04.26364708) · [Repository](https://github.com/LionelWu11282562/A-Two-Stage-Probability-Stratified-Method-for-Ambiguous-Dataset-Optimization)
+**Academic recognition:** Dean's List with Distinction (Spring 2026); Dean's List (Fall 2025); Academic Excellence Scholarship (2025).
 
-- Studied undiagnosed hypertension in a cohort of **43,105 Chinese adults** using a two-stage positive–unlabeled learning framework.
-- Combined **Elastic Net logistic regression** and **Random Forest** for reliable sample reconstruction and stratification, followed by **XGBoost** classification.
-- Achieved **0.817 sensitivity** and reduced false negatives by **41.1%** compared with standard XGBoost, while recognizing trade-offs with specificity.
-- Used **SHAP** to examine factors contributing to risk predictions.
+---
 
-### 🔴 Local Government Financing & Industrial Structure
+### 02 / FEATURED RESEARCH
+
+#### PU-Boost — Positive–Unlabeled Learning for Hypertension Screening
+
+**Co-author / Research Assistant** · 2026 · Under Review  
+[Research preprint](https://doi.org/10.64898/2026.10.04.26364708) · [Project repository](https://github.com/LionelWu11282562/A-Two-Stage-Probability-Stratified-Method-for-Ambiguous-Dataset-Optimization)
+
+A two-stage positive–unlabeled (PU) learning framework for identifying undiagnosed hypertension among **43,105 Chinese adults**, designed to address uncertain labels in heterogeneous population data.
+
+- **Approach:** Elastic Net logistic regression and Random Forest for sample reconstruction and stratification, followed by XGBoost classification.
+- **Evaluation:** Sensitivity of **0.817**, with **41.1% fewer false negatives** than standard XGBoost; considered the corresponding trade-offs in specificity.
+- **Interpretation:** SHAP analysis to examine contributors to model predictions.
+
+`Positive–Unlabeled Learning` `Elastic Net` `Random Forest` `XGBoost` `SHAP`
+
+---
+
+### 03 / ADDITIONAL RESEARCH & PROJECTS
+
+#### Heterogeneous Effects of Local Government Financing Channels on Industrial Structure
 
 **Co-author** · 2026 · Under Review · [Preprint](https://doi.org/10.31235/osf.io/3waq5_v2)
 
-- Analyzed **2016–2025 provincial panel data from China** to study heterogeneous effects of statutory debt and local government financing vehicle (LGFV) debt.
-- Applied **two-way fixed effects models** and conducted robustness checks, including variable substitution and sample exclusions.
+Studied the heterogeneous associations of statutory government debt and local government financing vehicle (LGFV) debt with industrial structure using **2016–2025 Chinese provincial panel data**. Contributed to software implementation, **two-way fixed effects modeling**, robustness checks, and manuscript revision.
 
-### 🔴 Systolic Blood Pressure Among Chinese Adults
+`Panel Data` `Two-Way Fixed Effects` `Robustness Checks`
 
-**Statistical Analyst** · Fall 2025 · [Repository](https://github.com/Hanfei-Yang/SystolicBlood-Pressure-Among-Middle-Agedand-Older-Chinese-Adults)
+#### Systolic Blood Pressure Among Chinese Adults
 
-- Analyzed **43,088 observations** and **48 initial clinical variables**.
-- Applied **LASSO**, multicollinearity diagnostics, nested multivariate linear regression, logistic regression, and **Box–Cox transformations**.
-- Investigated associations between dietary behaviors and blood-pressure outcomes.
+**Statistical Analyst** · Fall 2025 · [Project repository](https://github.com/Hanfei-Yang/SystolicBlood-Pressure-Among-Middle-Agedand-Older-Chinese-Adults)
 
-## Industry Experience
+Analyzed **43,088 observations** and **48 initial clinical variables**, using **LASSO**, collinearity diagnostics, nested multivariate linear models, logistic regression, and Box–Cox transformations to study factors associated with blood pressure.
 
-### Product Research & Development Intern · Beijing Yolosho Technology
+`LASSO` `Regression` `Statistical Inference` `R`
 
-*Jul 2026 – Aug 2026*
+---
 
-- Helped refine an **AI-powered résumé screening system** through statistical and machine-learning approaches, improving screening accuracy from approximately **83% to over 90%** in internal evaluations.
-- Applied **logistic regression** to examine discrepancies between stated HR requirements and actual screening decisions.
-- Built **Sankey diagrams** and **sunburst charts** for a career-guidance platform dashboard and supported product improvements through client feedback.
+### 04 / INDUSTRY EXPERIENCE
 
-## Tech Stack
+#### Product Research & Development Intern — Beijing Yolosho Technology Co., Ltd.
 
-<div align="center">
+**July–August 2026**
 
-**Languages:** Python · R · Java · SQL · C (Basics)
+- Helped refine an **AI-powered résumé screening system**, improving internal screening accuracy from approximately **83% to over 90%** through collaborative model and scoring improvements.
+- Used statistical analysis, including **logistic regression**, to investigate differences between stated HR criteria and actual screening decisions.
+- Developed **Sankey diagrams** and **sunburst charts** for a career-guidance platform, and contributed to product improvements informed by client feedback.
 
-**Statistical Modeling** · **Pandas / NumPy** · **RMarkdown** · **Machine Learning** · **Data Visualization**
+`Machine Learning` `Statistical Analysis` `Product R&D` `Data Visualization`
 
-</div>
+---
 
-## Honors & Certifications
+### 05 / TECHNICAL SKILLS
 
-- **Dean's List with Distinction**, University of Arizona — Spring 2026
-- **Dean's List**, University of Arizona — Fall 2025
-- **Academic Excellence Scholarship**, Capital University of Economics and Business — 2025
-- **Certificate of Completion**, Alliance Manchester Business School — 2025
-- **Professional Competency Certificate in Market Research & Analysis** — 2024
+| Area | Tools & methods |
+| :--- | :--- |
+| **Programming** | Python (NumPy, pandas), R (statistical modeling, R Markdown), Java, SQL, C (basics) |
+| **Statistical methods** | Regression, statistical inference, variable selection, panel-data analysis |
+| **Machine learning** | Classification, tree-based models, model validation, positive–unlabeled learning |
+| **Visualization** | Statistical graphics, Sankey diagrams, sunburst charts |
+
+---
+
+### 06 / HONORS & CERTIFICATIONS
+
+- **Dean's List with Distinction** — University of Arizona, Spring 2026
+- **Dean's List** — University of Arizona, Fall 2025
+- **Academic Excellence Scholarship** — Capital University of Economics and Business, 2025
+- **Certificate of Completion** — Alliance Manchester Business School, 2025
+- **Professional Competency Certificate in Market Research & Analysis** — China, 2024
 
 ---
 
 <div align="center">
-  <sub>Built with curiosity, statistical rigor, and a preference for real-world problems.</sub>
+
+### 07 / CONTACT
+
+**[yanghanfei@arizona.edu](mailto:yanghanfei@arizona.edu)** &nbsp;·&nbsp; **[GitHub](https://github.com/Hanfei-Yang)**
+
+<sub>Hanfei Yang · Data Science & Statistics</sub>
+
 </div>
